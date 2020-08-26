@@ -3,4 +3,4 @@
 ### HP, MP worden bijgewerkt na elke ronde.
 - game uitpakken
 - main.py starten in de terminal
-![Screenshot](./img/screen.jpg)
+![Screenshot](../img/screen.jpg)
